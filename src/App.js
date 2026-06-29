@@ -9,7 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <br></br>
-          HI THERE I FART IN YOUR GENERAL DIRETION!
+          HI THERE, I FART IN YOUR GENERAL DIRETION!
+          I tebe sam sit kafano!!!!
+          Dao Bog da se zapalila!
         </p>
         <a
           className="App-link"
